@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/eclipse/jdt/core/3.3.8.201211290939/core-3.3.8.201211290939.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
