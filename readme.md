@@ -1,5 +1,3 @@
-Jexast
-======
 
 Jexast allows creating Java AST Nodes with Plain JDT. Jexast stands for "Extraction of Java ASTs".
 
