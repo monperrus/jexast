@@ -1,7 +1,7 @@
 
 Jexast allows creating Java AST Nodes with Plain JDT. Jexast stands for "Extraction of Java ASTs".
 
-**Jexast has been superseeded by [https://github.com/INRIA/spoon](Spoon). Please use Spoon instead in noclasspath mode.**
+**Jexast has been superseeded by [Spoon](https://github.com/INRIA/spoon). Please use Spoon instead in noclasspath mode.**
 
 To get the AST of Java files, there is the famous JDT class [ASTParser](http://help.eclipse.org/indigo/topic/org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/core/dom/ASTParser.html).
 
